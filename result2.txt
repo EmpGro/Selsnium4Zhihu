@@ -1,0 +1,129 @@
+{'name': 'vczh', 'fuc': '回答了问题', 'title': '你对Office 2019有哪些期待？', 'author': 'vczh'}
+{'name': '赵世奇', 'fuc': '赞同了回答', 'title': '如何评价 DeepMind 发表在 Nature 上的 AlphaGo Zero？', 'author': '李开复'}
+{'name': '孙志超', 'fuc': '回答了问题', 'title': '看了很多知乎上 网友的成功经历，觉得很自卑，怎么办？', 'author': '孙志超'}
+{'name': '陈楸帆', 'fuc': '赞同了回答', 'title': '如何评价 DeepMind 发表在 Nature 上的 AlphaGo Zero？', 'author': '阿萨姆'}
+{'name': '屠飞飞', 'fuc': '赞同了回答', 'title': '在你看来，知乎做「招聘」有哪些独特的「长板」和「短板」？', 'author': 'Lydia'}
+{'name': '李傲文', 'fuc': '回答了问题', 'title': '新教徒可不可以假装成天主教徒找神父忏悔？', 'author': '李傲文'}
+{'name': 'dizzarz', 'fuc': '赞同了回答', 'title': '工作的目的为了赚钱不对吗？', 'author': '德仔'}
+{'name': 'dizzarz', 'fuc': '赞了文章', 'title': 'title', 'author': 'author'}
+{'name': '哎呀音乐', 'fuc': '回答了问题', 'title': '如何让乐队不解散？', 'author': '哎呀音乐'}
+{'name': 'winter', 'fuc': '回答了问题', 'title': '为什么那么多人开车回家，到楼下了不下车还要在车里坐好久？', 'author': 'winter'}
+{'name': 'dizzarz', 'fuc': '赞同了回答', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '护士衫下'}
+{'name': 'dizzarz', 'fuc': '赞同了回答', 'title': '哪一刻让你终于意识到了和对方阶层（阶级）不同？', 'author': 'Marco Liu'}
+{'name': 'Johann Faust', 'fuc': '赞同了回答', 'title': '新教徒可不可以假装成天主教徒找神父忏悔？', 'author': 'Karolus Sericus'}
+{'name': '银教授', 'fuc': '回答了问题', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '银教授'}
+{'name': '李傲文', 'fuc': '关注了问题', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': 'author'}
+{'name': 'jl wang', 'fuc': '赞同了回答', 'title': '影视剧中把扔到身边的手榴弹扔回去的操作实际可能么？手榴弹一般多久后爆炸？', 'author': '前陆军下士'}
+{'name': '霍雍', 'fuc': '发表了文章', 'title': '德国经典绘本，专注力观察力记忆力锻炼，幼儿的思维体操', 'author': '霍雍'}
+{'name': '李傲文', 'fuc': '收藏了文章', 'title': 'title', 'author': 'author'}
+{'name': '王豖', 'fuc': '赞同了回答', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '坦克手贝塔'}
+{'name': '哎呀音乐', 'fuc': '发表了文章', 'title': '爵士吉他：三种大招玩转小调Ⅱ-Ⅴ-Ⅰ即兴！', 'author': '哎呀音乐'}
+{'name': '赵刚-零零发', 'fuc': '赞同了回答', 'title': '主板上的南北桥是什么东西？', 'author': 'author'}
+{'name': '周祚', 'fuc': '赞同了回答', 'title': '哈维·韦恩斯坦怎样做到奥斯卡最大推手的？', 'author': '画外hoWide'}
+{'name': '李傲文', 'fuc': '赞同了回答', 'title': '我同学趁我妹妹醉酒后强奸了她，经过详见下面陈述。我该怎么办？', 'author': '喵了个咪的'}
+{'name': '陈小川', 'fuc': '收藏了回答', 'title': '胡歌的这张图是怎么做成的？', 'author': 'Simon阿文'}
+{'name': '李傲文', 'fuc': '赞同了回答', 'title': '我同学趁我妹妹醉酒后强奸了她，经过详见下面陈述。我该怎么办？', 'author': '关老湿233'}
+{'name': '李傲文', 'fuc': '关注了问题', 'title': '我同学趁我妹妹醉酒后强奸了她，经过详见下面陈述。我该怎么办？', 'author': 'author'}
+{'name': '继续者张付', 'fuc': '收藏了文章', 'title': 'title', 'author': 'author'}
+{'name': '李傲文', 'fuc': '赞同了回答', 'title': '为什么歌手在演唱会上会穿一些很浮夸的演出服？', 'author': '万金油'}
+{'name': '蔡要要', 'fuc': '回答了问题', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '蔡要要'}
+{'name': '九尾', 'fuc': '赞同了回答', 'title': '工作的目的为了赚钱不对吗？', 'author': '黄医湿'}
+{'name': '王瑗', 'fuc': '赞同了回答', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '韦易笑'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '工作的目的为了赚钱不对吗？', 'author': 'author'}
+{'name': '九尾', 'fuc': '赞同了回答', 'title': '工作的目的为了赚钱不对吗？', 'author': '廖雪峰'}
+{'name': '石苏', 'fuc': '回答了问题', 'title': '如何在不撕破脸的情况下，杜绝村里某个跟爸妈很熟的人来我家果园偷摘？', 'author': '石苏'}
+{'name': '伊迪亚特', 'fuc': '赞同了回答', 'title': '北斗导航系统说得那么好，是吹牛的吗？', 'author': '甜水湾的抗靶子'}
+{'name': '鬼木知', 'fuc': '回答了问题', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '鬼木知'}
+{'name': '石苏', 'fuc': '回答了问题', 'title': '为什么缅甸不能接纳罗兴亚人？', 'author': '石苏'}
+{'name': '命硬的eno', 'fuc': '关注了问题', 'title': '如何评价麦当雄？', 'author': 'author'}
+{'name': '李傲文', 'fuc': '关注了问题', 'title': '如何看待这次比特币「矿难」？', 'author': 'author'}
+{'name': 'bakero喵', 'fuc': '赞同了回答', 'title': '有哪些飞行员果断弃机跳伞造成地面平民伤亡的例子？', 'author': '50-1000滑膛枪'}
+{'name': '纸糊', 'fuc': '回答了问题', 'title': '看了很多知乎上 网友的成功经历，觉得很自卑，怎么办？', 'author': '纸糊'}
+{'name': '侯天天', 'fuc': '赞同了回答', 'title': '喜欢建筑，分数上华工建筑系有点悬，该如何选择?', 'author': '陈铠楠'}
+{'name': '伊迪亚特', 'fuc': '赞同了回答', 'title': '北斗导航系统说得那么好，是吹牛的吗？', 'author': 'CACZ'}
+{'name': '黄继新', 'fuc': '赞同了回答', 'title': '如何评价 DeepMind 发表在 Nature 上的 AlphaGo Zero？', 'author': 'SIY.Z'}
+{'name': '戴威', 'fuc': '赞同了回答', 'title': '为什么菲律宾禁毒会遭到很多西方国家的谴责和非议？', 'author': '李建秋'}
+{'name': '周北树', 'fuc': '赞了文章', 'title': 'title', 'author': 'author'}
+{'name': 'dizzarz', 'fuc': '赞了文章', 'title': 'title', 'author': 'author'}
+{'name': '黄继新', 'fuc': '赞同了回答', 'title': '从腾讯出来的创业者创办的公司有哪些？', 'author': '团支书'}
+{'name': 'vczh', 'fuc': '回答了问题', 'title': '作为一个辍学的非科班的c++初学者，怎么证明自己呢？', 'author': 'vczh'}
+{'name': '采铜', 'fuc': '赞了文章', 'title': 'title', 'author': 'author'}
+{'name': '龙牙', 'fuc': '回答了问题', 'title': '中国的农业如何像美国一样搞大规模机械化生产？', 'author': '龙牙'}
+{'name': 'bakero喵', 'fuc': '回答了问题', 'title': '影视剧中把扔到身边的手榴弹扔回去的操作实际可能么？手榴弹一般多久后爆炸？', 'author': 'bakero喵'}
+{'name': 'jl wang', 'fuc': '收藏了回答', 'title': '一张具有法律效力的借条应该是怎么样的？', 'author': '赫诚君'}
+{'name': 'Nordenbox', 'fuc': '回答了问题', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': 'Nordenbox'}
+{'name': '九尾', 'fuc': '赞同了回答', 'title': '为什么Linux下要把创建进程分为fork()和exec()(一系列函数)两个函数来处理?', 'author': 'invalid s'}
+{'name': '笑道人', 'fuc': '赞同了回答', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': 'cOMMANDO'}
+{'name': '十号胖狐狸', 'fuc': '回答了问题', 'title': '薛之谦最后的结局会怎样？', 'author': '十号胖狐狸'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '为什么Linux下要把创建进程分为fork()和exec()(一系列函数)两个函数来处理?', 'author': 'author'}
+{'name': 'Johann Faust', 'fuc': '赞同了回答', 'title': '为什么藤原氏后裔如伊达、上杉自称自己是武家？', 'author': '北条早苗'}
+{'name': 'jl wang', 'fuc': '赞同了回答', 'title': '台湾人如何看待台飞机在自己地盘被日机拦截？', 'author': '時绮狂三'}
+{'name': 'Creamy络', 'fuc': '回答了问题', 'title': '你是从哪个细节发现女朋友出轨的？', 'author': 'Creamy络'}
+{'name': '十号胖狐狸', 'fuc': '回答了问题', 'title': '怎样的一句话能让男生瞬间不开心？', 'author': '十号胖狐狸'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '人类的尿路结石为什么没有被炒作成收藏品？', 'author': 'author'}
+{'name': '王路', 'fuc': '赞同了回答', 'title': '如何评价 DeepMind 发表在 Nature 上的 AlphaGo Zero？', 'author': '不会功夫的潘达'}
+{'name': '王路', 'fuc': '回答了问题', 'title': '如何评价 DeepMind 发表在 Nature 上的 AlphaGo Zero？', 'author': '王路'}
+{'name': '刺猬先生', 'fuc': '关注了问题', 'title': '新人作者签合约时需要注意哪些点？', 'author': 'author'}
+{'name': '柳如婳', 'fuc': '回答了问题', 'title': '如何评价对女权主义的妖魔化？', 'author': '柳如婳'}
+{'name': '陈章鱼', 'fuc': '赞同了回答', 'title': '为什么明星能赚那么多钱，而研究成果造福人类的科学家却不行？', 'author': '司马懿'}
+{'name': '王路', 'fuc': '发表了文章', 'title': '王路：阿尔法狗，阿尔法元，阿尔法人', 'author': '王路'}
+{'name': 'vczh', 'fuc': '回答了问题', 'title': '有哪些东西你知道很贵，但开始的时候不知道居然这么贵？', 'author': 'vczh'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '为什么很多珠宝品牌都姓「周」？', 'author': 'author'}
+{'name': '阿迦陀', 'fuc': '赞同了回答', 'title': '中国在世界上（非周边国家中）的知名度到底有多大？', 'author': '李星河'}
+{'name': 'Mariotaku', 'fuc': '赞同了回答', 'title': '比特币是不是对大部分人的财富洗劫？', 'author': '傲慢雨偏剑'}
+{'name': 'vczh', 'fuc': '赞同了回答', 'title': '有哪些东西你知道很贵，但开始的时候不知道居然这么贵？', 'author': 'Shannon'}
+{'name': '翔宇情', 'fuc': '回答了问题', 'title': '摄影器材推荐？', 'author': '翔宇情'}
+{'name': 'bakero喵', 'fuc': '赞同了回答', 'title': '什么时候让你深切领悟到「小孩才不纯洁呢」的道理？', 'author': 'Sayaka Kanzaki'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '如果当初崇祯帝没杀袁崇焕 ，或是崇祯像宋朝的皇帝一样暂避江南，大明会怎样？', 'author': 'author'}
+{'name': '九尾', 'fuc': '赞同了回答', 'title': '为什么我觉得所有的猫都是母的，所有的狗都是公的？', 'author': 'four8001'}
+{'name': '孙志超', 'fuc': '回答了问题', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '孙志超'}
+{'name': 'vczh', 'fuc': '回答了问题', 'title': '现在知乎对女权全面嘲讽，难道女权全是糟粕吗？', 'author': 'vczh'}
+{'name': '楠爷', 'fuc': '回答了问题', 'title': '为何oppo和vivo骂的如此惨而公关无任何行动？', 'author': '楠爷'}
+{'name': '九尾', 'fuc': '赞同了回答', 'title': '为什么我觉得所有的猫都是母的，所有的狗都是公的？', 'author': 'gouflv'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '为什么我觉得所有的猫都是母的，所有的狗都是公的？', 'author': 'author'}
+{'name': 'Johann Faust', 'fuc': '回答了问题', 'title': '新教徒可不可以假装成天主教徒找神父忏悔？', 'author': 'Johann Faust'}
+{'name': '為夢而生', 'fuc': '赞同了回答', 'title': '伊拉克叙利亚都那么乱了，为何还不出乱世英雄？', 'author': '江哲'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '如何评价360开源的pika项目？', 'author': 'author'}
+{'name': '战忽局852所', 'fuc': '赞同了回答', 'title': '什么时候让你深切领悟到「小孩才不纯洁呢」的道理？', 'author': '汣是我'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '官网网站用什么技术栈比较合理？', 'author': 'author'}
+{'name': '战忽局852所', 'fuc': '赞同了回答', 'title': '台湾人如何看待台飞机在自己地盘被日机拦截？', 'author': '无聊大师'}
+{'name': '战忽局852所', 'fuc': '赞同了回答', 'title': '台湾人如何看待台飞机在自己地盘被日机拦截？', 'author': '子安'}
+{'name': '泽西', 'fuc': '赞了文章', 'title': 'title', 'author': 'author'}
+{'name': '冻柠檬茶', 'fuc': '关注了问题', 'title': '程序员记忆力不好，记不住数据结构中的成员，还适合干这行么？', 'author': 'author'}
+{'name': '冻柠檬茶', 'fuc': '赞同了回答', 'title': '程序员记忆力不好，记不住数据结构中的成员，还适合干这行么？', 'author': 'Vincross'}
+{'name': 'bakero喵', 'fuc': '赞同了回答', 'title': '如何看待「广东警方：有些地方黑恶势力已危及执政根基」？', 'author': '狄客天行'}
+{'name': '冻柠檬茶', 'fuc': '关注了问题', 'title': '你见过中国高校为了维护自己的名声而做出过哪些令人作呕的事情？', 'author': 'author'}
+{'name': '云舒', 'fuc': '赞同了回答', 'title': '男友想要我的第一次，我应该给他吗？', 'author': '朱朱妹s'}
+{'name': 'vczh', 'fuc': '回答了问题', 'title': '三十岁左右（28～32）的你，现在处于什么状态？', 'author': 'vczh'}
+{'name': '冻柠檬茶', 'fuc': '关注了问题', 'title': '在互联网公司工作是怎样的一种体验？', 'author': 'author'}
+{'name': '九尾', 'fuc': '关注了问题', 'title': '如何看待比特币再创新高，市值超过百度？', 'author': 'author'}
+{'name': 'Seasee Youl', 'fuc': '赞同了回答', 'title': '如何让自己静下心学习？', 'author': '曾少贤'}
+{'name': 'vczh', 'fuc': '赞同了回答', 'title': '为什么很多网友讨论问题不能心平气和客观，而是以辩论的姿态，要驳倒对方，指责不足，气势汹汹？', 'author': '程墨Morgan'}
+{'name': '唐缺', 'fuc': '回答了问题', 'title': '你见到过哪些牛逼或者有点意思的公司名?', 'author': '唐缺'}
+{'name': '战忽局852所', 'fuc': '赞同了回答', 'title': '如何看待台湾有人想改原时区为日本时区的事件？', 'author': '佚名'}
+{'name': '战忽局852所', 'fuc': '赞同了回答', 'title': '如何看待台湾有人想改原时区为日本时区的事件？', 'author': '纳豆与梨子'}
+{'name': '战忽局852所', 'fuc': '赞同了回答', 'title': '如何看待台湾有人想改原时区为日本时区的事件？', 'author': '钓鱼要到岛上钓'}
+{'name': '战忽局852所', 'fuc': '赞同了回答', 'title': '如何看待台湾有人想改原时区为日本时区的事件？', 'author': '深蓝大盗'}
+{'name': 'Raymond Wang', 'fuc': '赞同了回答', 'title': '如何评价无条件基本收入（ Unconditional Basic income）？', 'author': '李开复'}
+{'name': 'Creamy络', 'fuc': '回答了问题', 'title': '你听过三观极歪的一句话是？', 'author': 'Creamy络'}
+{'name': 'bakero喵', 'fuc': '赞同了回答', 'title': '如何看待台湾有人想改原时区为日本时区的事件？', 'author': '魚仔'}
+{'name': 'bakero喵', 'fuc': '赞了文章', 'title': 'title', 'author': 'author'}
+{'name': '战忽局852所', 'fuc': '回答了问题', 'title': '如何评价NGA（艾泽拉斯国家地理）？', 'author': '战忽局852所'}
+{'name': 'jl wang', 'fuc': '赞同了回答', 'title': '看了很多知乎上 网友的成功经历，觉得很自卑，怎么办？', 'author': '永远'}
+{'name': '旖旎', 'fuc': '赞同了回答', 'title': '如果把死亡笔记里的L换成工藤新一，他能否抓住夜神月？', 'author': 'Dream Light'}
+{'name': 'vczh', 'fuc': '回答了问题', 'title': '如何评价微信官方因用户分享天猫双11红包而封号的行为？', 'author': 'vczh'}
+{'name': 'vczh', 'fuc': '赞同了回答', 'title': '你知道哪些名人鲜为人知的一面？', 'author': '影视潜规则'}
+{'name': '老衲 等500人', 'fuc': '回答了问题', 'title': '如何评价微信热文《对不起，爸爸妈妈给不了你800w的学区房》？', 'author': '老衲 等500人'}
+{'name': 'Johnson Aker', 'fuc': '发表了文章', 'title': '简讯|美国军火巨头开始新一轮兼并扩充', 'author': 'Johnson Aker'}
+{'name': 'Klaith', 'fuc': '赞同了回答', 'title': '药品注册申请时需提交的申报资料，是否都是保密的，还是有一部分需要公开或可以公开？', 'author': 'Water Above'}
+{'name': '马前卒', 'fuc': '赞同了回答', 'title': '如果说每一次战争都有大量的健康、优秀、勇敢的人死亡，那后代是不是只遗传了垃圾基因和思想？', 'author': '缺月梧桐'}
+{'name': 'Xiaoyu Ma', 'fuc': '赞了文章', 'title': 'title', 'author': 'author'}
+{'name': '鬼木知', 'fuc': '关注了问题', 'title': '男友想要我的第一次，我应该给他吗？', 'author': 'author'}
+{'name': '纸糊', 'fuc': '收藏了回答', 'title': '有哪些大家不说，但需要知道的社会规则？', 'author': '公子V'}
+{'name': 'pansz', 'fuc': '回答了问题', 'title': '为什么Linux下要把创建进程分为fork()和exec()(一系列函数)两个函数来处理?', 'author': 'pansz'}
+{'name': '用户不存在', 'fuc': '关注了问题', 'title': '上任近九个月，特朗普干成了什么事？', 'author': 'author'}
+{'name': '用户不存在', 'fuc': '收藏了文章', 'title': 'title', 'author': 'author'}
+{'name': '纸糊', 'fuc': '回答了问题', 'title': '《红色警戒》里为什么没有中国？', 'author': '纸糊'}
+{'name': '风墟', 'fuc': '赞同了回答', 'title': '看了很多知乎上 网友的成功经历，觉得很自卑，怎么办？', 'author': '黄医湿'}
+{'name': '赵劼', 'fuc': '赞同了回答', 'title': '程序员记忆力不好，记不住数据结构中的成员，还适合干这行么？', 'author': 'Milo Yip'}
+{'name': '赵劼', 'fuc': '赞同了回答', 'title': '如何评价对女权主义的妖魔化？', 'author': '妄明'}
